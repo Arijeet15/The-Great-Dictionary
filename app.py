@@ -4,7 +4,7 @@ import streamlit as st
 st.set_page_config(page_title="The Great Dictionary", page_icon=":book:")
 st.title("The Great Dictionary")
 
-st.text("A english language online dictionary.")
+st.text("An english language online dictionary.")
 
 word = st.text_input("Enter the word :")
 
